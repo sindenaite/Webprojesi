@@ -1,1 +1,42 @@
+================================================================================
+AI WORKFLOW LOG - Ayakkabı E-Ticaret Web Projesi
+================================================================================
 
+[OTURUM 1: Site İçi Tasarım ve İçerik Yapılandırması]
+--------------------------------------------------------------------------------
+Soru/Prompt:
+E-ticaret ayakkabı satış sitesinin iç tasarımı, sayfa yapıları ve içerik planı nasıl olmalı?
+
+Alınan AI Çıktısı (Özet):
+Site mimarisi ve temel sayfa bileşenleri belirlendi:
+1. Ana Sayfa (Vitrin): Banner'lar, öne çıkan kategoriler, çok satanlar, müşteri yorumları ve USP şeritleri.
+2. Ürün Detay Sayfası: Yüksek çözünürlüklü görseller, 360°/video gösterimi, kalıp/numara yönlendirme rehberi, stok ve kargo bilgisi.
+3. Kategori & Filtreleme: Numara, renk, topuk boyu, fiyat ve materyal filtreleri.
+4. Kurumsal & Güven Sayfaları: Hakkımızda, iletişim (harita/WhatsApp), SSS.
+5. Yasal Metinler (Footer): Mesafeli Satış Sözleşmesi, Ön Bilgilendirme Formu, İade/Değişim ve KVKK metinleri.
+6. Sepet & Ödeme (Checkout): Sepet özeti, indirim kodu, misafir alışverişi ve güvenli ödeme formu.
+
+--------------------------------------------------------------------------------
+
+[OTURUM 2: GitHub Yapılandırması ve Dosya Oluşturma]
+--------------------------------------------------------------------------------
+Soru/Prompt:
+GitHub üzerinde `README.md` ve `ai.log` dosyaları nasıl oluşturulur?
+
+Alınan AI Çıktısı (Özet):
+GitHub üzerinde dosya oluşturma yöntemleri (Web arayüzü ve Terminal/Git komutları) ve her iki dosya için şablon içerikler alındı.
+
+--------------------------------------------------------------------------------
+
+[OTURUM 3: GitHub Arayüz Yönlendirmeleri ve Arayüz Desteği]
+--------------------------------------------------------------------------------
+Adım 1 - Arayüz Tanılama:
+- Kullanıcı GitHub Projects (Proje Panosu) sayfasındayken ana depoya (repository) nasıl geçeceği yönlendirildi.
+
+Adım 2 - Arayüz Tanılama:
+- Kullanıcı `Issues` sekmesinde iken dosya yükleme alanına erişmek için `<> Code` sekmesine yönlendirildi.
+
+Adım 3 - İlk Dosya Oluşturma (Boş Repository):
+- Henüz commit yapılmamış boş depoda `Quick setup` alanındaki "creating a new file" bağlantısı üzerinden `README.md` oluşturma ve ardından `ai.log` ekleme adımları tamamlandı.
+
+================================================================================
