@@ -40,3 +40,20 @@ Adım 3 - İlk Dosya Oluşturma (Boş Repository):
 - Henüz commit yapılmamış boş depoda `Quick setup` alanındaki "creating a new file" bağlantısı üzerinden `README.md` oluşturma ve ardından `ai.log` ekleme adımları tamamlandı.
 
 ================================================================================
+## 2. İLK KOD TASARIMI VE ÇALIŞTIRMA ADIMLARI
+
+- Kullanıcı: "bana yaptığın fotoğrafı kod olarak verebilir misin css html ve java script kullanarak"
+- Yapılan İşlem: Tasarımın HTML, CSS ve JavaScript kodları (navigasyon menüsü, hero banner, öne çıkan ürünler, indirim/tükendi etiketleri ve sepet sayacı fonksiyonu) oluşturuldu.
+
+
+
+
+- Kullanıcı: "bu biraz fazla komplex bana biraz daha basit bişey yapsana kodu da kısalt"
+- Yapılan İşlem: Karmaşık ikonlar ve animasyonlar çıkarıldı. 3 basit ürün kartı ve temel sepet mantığı içeren en sade `index.html` kodları yazıldı.
+
+
+- Kullanıcı: "şurdaki üstteki barı tekrar ekle ama hiç bir işe yaramasın sadece arayüz yapıyorum ya" (Tasarım görseli paylaşıldı)
+- Yapılan İşlem: Üst bar alanına kurgusal navigasyon linkleri (KADIN, ERKEK, SPOR, İNDİRİM) ve arama kutusu sadece görsel tasarım olarak eklendi.
+
+- Kullanıcı: "şimdi bunları githuba yükleyeceğim"
+- AI Açıklaması: GitHub web arayüzü üzerinden `index.html` dosyasını düzenleyip commit etme adımları ve alternatif Git komutları paylaşıldı.
